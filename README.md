@@ -1,4 +1,4 @@
 # Seminar_1
 # Hello Git
 Hello local
-Rep 2
+Line Conflict
